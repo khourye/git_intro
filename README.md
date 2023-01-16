@@ -1,1 +1,2 @@
-"Elizabeth Khoury" 
+Elizabeth Khoury
+khourye@oregonstate.edu
